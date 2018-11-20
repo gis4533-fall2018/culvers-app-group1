@@ -92,10 +92,15 @@ body{
   margin:0;
   overflow: hidden;
 }
+
+#wrapperHeader{
+    margin-top: 300px;
+    
+}
 #headerText{
-  padding-top:10px;
-  padding-left:16px;
-  width:70%;
+  padding-top:1px;
+  padding-left:12px;
+  width:35%;
   float:left;
 }
 .esriRTL #headerText{

@@ -30,13 +30,13 @@ define({
   // hosted version of the application can apply custom styles
   // not used in the download version.
   "customstyle": true,
-  "background": "#934646",
+  "background": "#005696",
   "color": "#fff",
   "legendTitleBackground": "#767676",
   "subtitleColor": "#CECECE",
   "legendTitleColor": "#fff",
-  "showTitle": true,
-  "showSubTitle": true,
+  "showTitle": false,
+  "showSubTitle": false,
   "title": null,
   "subtitle": null,
   "showLogo": true,
